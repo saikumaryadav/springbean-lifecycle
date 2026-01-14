@@ -26,8 +26,7 @@ Maven
 
 JSR-250 Annotations (@PostConstruct, @PreDestroy)
 
-**Spring Bean Lifecycle Phases
-**
+**Spring Bean Lifecycle Phases**
 Spring follows the below sequence while managing a bean:
 
 Bean Instantiation
